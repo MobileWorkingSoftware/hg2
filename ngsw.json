@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572264924270,
+  "timestamp": 1572266541458,
   "index": "https://mobileworkingsoftware.github.io/hg2/index.html",
   "assetGroups": [
     {
@@ -9,17 +9,17 @@
       "updateMode": "prefetch",
       "urls": [
         "https://mobileworkingsoftware.github.io/hg2/1.8be5d908233940f22879.js",
-        "https://mobileworkingsoftware.github.io/hg2/6.29722ab2e765a8816f49.js",
+        "https://mobileworkingsoftware.github.io/hg2/6.132109f96473398a0913.js",
         "https://mobileworkingsoftware.github.io/hg2/7.97db069c55b28420720d.js",
         "https://mobileworkingsoftware.github.io/hg2/8.ce41f91cd2d74de5f503.js",
-        "https://mobileworkingsoftware.github.io/hg2/9.b7f318f46b19d0357965.js",
+        "https://mobileworkingsoftware.github.io/hg2/9.013bd729d8a57173b0ba.js",
         "https://mobileworkingsoftware.github.io/hg2/favicon.ico",
         "https://mobileworkingsoftware.github.io/hg2/happy.2a2e34efe5d8f8e0a9cb.css",
         "https://mobileworkingsoftware.github.io/hg2/index.html",
         "https://mobileworkingsoftware.github.io/hg2/lib.24bf1742e3764eb5de3c.css",
         "https://mobileworkingsoftware.github.io/hg2/main.b47b5fb2cb48f0eeb9b3.js",
         "https://mobileworkingsoftware.github.io/hg2/polyfills.1db25a9c8c75cfeb4fac.js",
-        "https://mobileworkingsoftware.github.io/hg2/runtime.8e7c768cc4039189ea12.js"
+        "https://mobileworkingsoftware.github.io/hg2/runtime.13b755dbd946752ef035.js"
       ],
       "patterns": []
     },
@@ -117,10 +117,10 @@
   "dataGroups": [],
   "hashTable": {
     "https://mobileworkingsoftware.github.io/hg2/1.8be5d908233940f22879.js": "aec7c0d0b2321cb56043f7aafcdbc70e616fec7b",
-    "https://mobileworkingsoftware.github.io/hg2/6.29722ab2e765a8816f49.js": "06071b029bf925e2a665641e4038fb4f7648418f",
+    "https://mobileworkingsoftware.github.io/hg2/6.132109f96473398a0913.js": "22a0f2f85bfe391f4bdd2a76c419f0c8fcc1014e",
     "https://mobileworkingsoftware.github.io/hg2/7.97db069c55b28420720d.js": "5a1d2d231de699c2fc4e6df6cee681e56dd55f1c",
     "https://mobileworkingsoftware.github.io/hg2/8.ce41f91cd2d74de5f503.js": "943602059c413641abfa3a5c553257c0057e4210",
-    "https://mobileworkingsoftware.github.io/hg2/9.b7f318f46b19d0357965.js": "f9cab6882cfd962de70bde52ca29e6dc7aff3d77",
+    "https://mobileworkingsoftware.github.io/hg2/9.013bd729d8a57173b0ba.js": "8bc6108133705b96eac5f1a57a56a1b3640922aa",
     "https://mobileworkingsoftware.github.io/hg2/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://mobileworkingsoftware.github.io/hg2/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://mobileworkingsoftware.github.io/hg2/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -195,11 +195,11 @@
     "https://mobileworkingsoftware.github.io/hg2/assets/images/logos/logo44.png": "6a05e25cafe56fd8773af7cd105d8eba38a18163",
     "https://mobileworkingsoftware.github.io/hg2/favicon.ico": "015103b1ea7e148ba602589a7393a9796a3b5be0",
     "https://mobileworkingsoftware.github.io/hg2/happy.2a2e34efe5d8f8e0a9cb.css": "2aac444efdd8126598ac3c4e011a283571b9b384",
-    "https://mobileworkingsoftware.github.io/hg2/index.html": "8c5f977b510982aacd5de6cdc1694fd7157b4efe",
+    "https://mobileworkingsoftware.github.io/hg2/index.html": "ea9f90a45a8aa790fb9e46dfb8a09fded81afbd8",
     "https://mobileworkingsoftware.github.io/hg2/lib.24bf1742e3764eb5de3c.css": "b8046e36d66f9200294813f975ac565cc76598d7",
     "https://mobileworkingsoftware.github.io/hg2/main.b47b5fb2cb48f0eeb9b3.js": "1901a4d1909fdfc67b5e537272f3561c104d3a02",
     "https://mobileworkingsoftware.github.io/hg2/polyfills.1db25a9c8c75cfeb4fac.js": "e3f9d640c5047b55de2803bdce6623828e2dd200",
-    "https://mobileworkingsoftware.github.io/hg2/runtime.8e7c768cc4039189ea12.js": "e3f449747a230f540e066f8095c8d3d005860aee"
+    "https://mobileworkingsoftware.github.io/hg2/runtime.13b755dbd946752ef035.js": "c3169e33bf3523f5c1997162ee28eb046956dd5d"
   },
   "navigationUrls": [
     {
