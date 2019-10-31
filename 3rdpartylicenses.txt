@@ -125,6 +125,8 @@ THE SOFTWARE.
 happy
 happy
 
+happybackend
+
 idb-keyval
 Apache-2.0
 Copyright 2016, Jake Archibald
