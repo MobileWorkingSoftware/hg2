@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1576492913345,
+  "timestamp": 1576518926334,
   "index": "https://mobileworkingsoftware.github.io/hg2/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://mobileworkingsoftware.github.io/hg2/happy.6d69f6638ebfbc0106f0.css",
         "https://mobileworkingsoftware.github.io/hg2/index.html",
         "https://mobileworkingsoftware.github.io/hg2/lib.24bf1742e3764eb5de3c.css",
-        "https://mobileworkingsoftware.github.io/hg2/main.5847213e964bd6a58e3a.js",
+        "https://mobileworkingsoftware.github.io/hg2/main.77b9ab8f45c9ba823959.js",
         "https://mobileworkingsoftware.github.io/hg2/polyfills.72e0377fd12ff4f119c7.js",
         "https://mobileworkingsoftware.github.io/hg2/runtime.83d0169389f4dd733199.js"
       ],
@@ -197,9 +197,9 @@
     "https://mobileworkingsoftware.github.io/hg2/common.ce74b3bb5e42fc5aa4d5.js": "a7505814e4cf554f40d57495fbb45e22bf32f39b",
     "https://mobileworkingsoftware.github.io/hg2/favicon.ico": "015103b1ea7e148ba602589a7393a9796a3b5be0",
     "https://mobileworkingsoftware.github.io/hg2/happy.6d69f6638ebfbc0106f0.css": "a7e9c2e9a1bd280fa30dad865cfaec8b80deff39",
-    "https://mobileworkingsoftware.github.io/hg2/index.html": "a5757c0240d419d43e7f546a5e394bb1b73641cf",
+    "https://mobileworkingsoftware.github.io/hg2/index.html": "cdc94dafc57abec0e212d3e48f5452b8d6bb9c0b",
     "https://mobileworkingsoftware.github.io/hg2/lib.24bf1742e3764eb5de3c.css": "b8046e36d66f9200294813f975ac565cc76598d7",
-    "https://mobileworkingsoftware.github.io/hg2/main.5847213e964bd6a58e3a.js": "f63cc511c0d4ea59b1dac69de0ac01dec7c0f93a",
+    "https://mobileworkingsoftware.github.io/hg2/main.77b9ab8f45c9ba823959.js": "3374ce714ad5b921a81ef34c9ab955c0cdf67542",
     "https://mobileworkingsoftware.github.io/hg2/polyfills.72e0377fd12ff4f119c7.js": "e3f9d640c5047b55de2803bdce6623828e2dd200",
     "https://mobileworkingsoftware.github.io/hg2/runtime.83d0169389f4dd733199.js": "b92ff0fb38b3c649a749aafe57e54815286a07b5"
   },
