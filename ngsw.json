@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1576436563556,
+  "timestamp": 1576481506841,
   "index": "https://mobileworkingsoftware.github.io/hg2/index.html",
   "assetGroups": [
     {
@@ -197,7 +197,7 @@
     "https://mobileworkingsoftware.github.io/hg2/common.ce74b3bb5e42fc5aa4d5.js": "a7505814e4cf554f40d57495fbb45e22bf32f39b",
     "https://mobileworkingsoftware.github.io/hg2/favicon.ico": "015103b1ea7e148ba602589a7393a9796a3b5be0",
     "https://mobileworkingsoftware.github.io/hg2/happy.7e28e962e49343fd1931.css": "91afba83c30d00ea57d629d2640c75337e124839",
-    "https://mobileworkingsoftware.github.io/hg2/index.html": "0a33ed27f57a88063ee6f84b2b5af0a81fc47a9e",
+    "https://mobileworkingsoftware.github.io/hg2/index.html": "553f1348911e61e6f590b6e8ab4d2444957cca14",
     "https://mobileworkingsoftware.github.io/hg2/lib.24bf1742e3764eb5de3c.css": "b8046e36d66f9200294813f975ac565cc76598d7",
     "https://mobileworkingsoftware.github.io/hg2/main.1bcf7494a86b85e213e2.js": "a834f94874272c045eed74473a80f900e7b2961f",
     "https://mobileworkingsoftware.github.io/hg2/polyfills.72e0377fd12ff4f119c7.js": "e3f9d640c5047b55de2803bdce6623828e2dd200",
