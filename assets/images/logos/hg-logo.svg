@@ -32,12 +32,13 @@
      showgrid="false"
      inkscape:zoom="13.906434"
      inkscape:cx="12.594844"
-     inkscape:cy="14.269977"
+     inkscape:cy="17.146343"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2167"
-     inkscape:pagecheckerboard="true" />
+     inkscape:pagecheckerboard="false"
+     showborder="false" />
   <defs
      id="defs2161" />
   <metadata
@@ -48,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
