@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1576856898765,
+  "timestamp": 1576868239523,
   "index": "https://mobileworkingsoftware.github.io/hg2/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://mobileworkingsoftware.github.io/hg2/happy.8053a1afe3b0b7d60e65.css",
         "https://mobileworkingsoftware.github.io/hg2/index.html",
         "https://mobileworkingsoftware.github.io/hg2/lib.24bf1742e3764eb5de3c.css",
-        "https://mobileworkingsoftware.github.io/hg2/main.c31dc21c2078acb2c1a1.js",
+        "https://mobileworkingsoftware.github.io/hg2/main.72ee2cfb1f85173b2cd9.js",
         "https://mobileworkingsoftware.github.io/hg2/polyfills.72e0377fd12ff4f119c7.js",
         "https://mobileworkingsoftware.github.io/hg2/runtime.692dd1ac31b315ec33c7.js"
       ],
@@ -87,9 +87,9 @@
     "https://mobileworkingsoftware.github.io/hg2/common.ce74b3bb5e42fc5aa4d5.js": "a7505814e4cf554f40d57495fbb45e22bf32f39b",
     "https://mobileworkingsoftware.github.io/hg2/favicon.ico": "015103b1ea7e148ba602589a7393a9796a3b5be0",
     "https://mobileworkingsoftware.github.io/hg2/happy.8053a1afe3b0b7d60e65.css": "d2df68321bebd07468d25254b1f437337353f81f",
-    "https://mobileworkingsoftware.github.io/hg2/index.html": "521f32007954d88b54f724b4eea1618a4bc3c7de",
+    "https://mobileworkingsoftware.github.io/hg2/index.html": "70511080045f3f71f7e8e4e3152bf9b7b59e23ca",
     "https://mobileworkingsoftware.github.io/hg2/lib.24bf1742e3764eb5de3c.css": "b8046e36d66f9200294813f975ac565cc76598d7",
-    "https://mobileworkingsoftware.github.io/hg2/main.c31dc21c2078acb2c1a1.js": "90b027dca1d47f83b1da8b7af2405c3eb13061d1",
+    "https://mobileworkingsoftware.github.io/hg2/main.72ee2cfb1f85173b2cd9.js": "2d8e9f5c5eb37933b12d1c7406003bfd112c1b08",
     "https://mobileworkingsoftware.github.io/hg2/polyfills.72e0377fd12ff4f119c7.js": "e3f9d640c5047b55de2803bdce6623828e2dd200",
     "https://mobileworkingsoftware.github.io/hg2/runtime.692dd1ac31b315ec33c7.js": "97f9a7a4fdfb7e41f0511a9ed1e032bfa6167892"
   },
